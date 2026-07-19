@@ -1,7 +1,5 @@
 # Hardware Efficient SWE: Hardware-Aware Speculative Task-to-Model Routing
 
-**Author:** Antón Fernández Pérez (antonfernperez@gmail.com)
-
 ## Summary
 
 Agentic software engineering (SWE) workloads exhibit a bimodal structure: ~80% of turns are cheap exploration (file reads, grep, test runs) while ~20% require expensive synthesis (multi-file patches, reasoning). Existing LLM routers (SWE-Router, RouteLLM, FrugalGPT) optimize model selection alone, ignoring the hardware substrate.
