@@ -1,0 +1,75 @@
+LICENSE
+
+Hardware Efficient SWE: Hardware-Aware Speculative Task-to-Model Routing
+Author: Antón Fernández Pérez (antonfernperez@gmail.com)
+Date: 2026
+
+---------------------------------------------------------------------
+NON-COMMERCIAL USE LICENSE
+---------------------------------------------------------------------
+
+This work (the "Paper"), including all text, figures, tables, algorithms,
+theoretical results, experimental data, and associated source code
+(collectively, the "Content"), is protected by copyright and made available
+under the following terms.
+
+By accessing, downloading, copying, or using the Content, you agree to be
+bound by this License. If you do not agree, do not use the Content.
+
+1. PERMITTED USES (Non-Commercial Only)
+   You may:
+   a) Read, download, and store the Content for personal, academic, or
+      research purposes.
+   b) Share the Content in unmodified form for non-commercial educational
+      or research purposes, provided this License is included.
+   c) Cite or reference the Content in academic publications with proper
+      attribution.
+
+2. PROHIBITED USES (Commercial & Derivative)
+   Without prior written permission from the Author, you may NOT:
+   a) Use the Content for any commercial purpose, including but not limited to:
+      - Incorporating into commercial products, services, or platforms
+      - Using as basis for commercial consulting, training, or advisory services
+      - Selling, licensing, or distributing the Content or derivatives for profit
+      - Using in any revenue-generating activity
+   b) Create derivative works, adaptations, translations, or modifications
+      of the Content for any purpose (commercial or non-commercial).
+   c) Remove, alter, or obscure this License, copyright notices, or
+      attribution information.
+   d) Use the Content to train, fine-tune, or improve machine learning
+      models for commercial deployment.
+   e) Sublicense, assign, or transfer any rights granted hereunder.
+
+3. ATTRIBUTION
+   Any permitted use must include the following citation:
+   
+   Fernández Pérez, A. (2026). "Hardware Efficient SWE: Hardware-Aware 
+   Speculative Task-to-Model Routing: Heterogenous Hardware, Context and 
+   Model Architecture for Maximized Token per Second per Cost Efficiency." 
+   arXiv preprint / Conference submission.
+
+4. NO WARRANTY
+   THE CONTENT IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+5. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+   OTHER LIABILITY ARISING FROM USE OF THE CONTENT.
+
+6. TERMINATION
+   This License terminates automatically upon any breach. Upon termination,
+   you must destroy all copies of the Content in your possession.
+
+7. GOVERNING LAW
+   This License is governed by the laws of Spain. Disputes shall be
+   resolved in the courts of Ourense, Spain.
+
+8. PERMISSION REQUESTS
+   For commercial use, derivative works, or any use not explicitly permitted
+   above, contact: antonfernperez@gmail.com
+
+---------------------------------------------------------------------
+This License does not grant any patent or trademark rights.
+Copyright (c) 2026 Antón Fernández Pérez. All rights reserved.
+---------------------------------------------------------------------
