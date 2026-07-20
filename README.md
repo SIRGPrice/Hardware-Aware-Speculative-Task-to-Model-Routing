@@ -2,7 +2,7 @@
 
 **Heterogenous Hardware, Context and Model Architecture for Maximized Token per Second vs Cost Efficiency**
 
-**Author:** Antón Fernández Pérez — Independent, Ourense, Spain — antonfernperez@gmail.com
+Antón Fernández Pérez, Independent, Ourense, Spain, antonfernperez@gmail.com
 
 ---
 
